@@ -86,4 +86,4 @@ ylabel("R_{max}");
 
 
 ## Result
-Thus, the maximum range of a radar system calculated using the Radar Range Equation is successfully verified using Scilab programming.
+Thus, the maximum range of a radar system calculated using the Radar Range Equation is successfully verified using Scilab programming.ccytfivtuffk
